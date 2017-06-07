@@ -1,0 +1,18 @@
+   查看分支：git branch
+
+   创建分支：git branch name
+
+   切换分支：git checkout name
+
+创建+切换分支：git checkout –b name
+
+合并某分支到当前分支：git merge name
+
+删除分支：git branch –d name
+
+隐藏当前状态：git stash
+恢复当前状态：git stash apply
+恢复并删除：  git stash drop
+
+
+提交到远程github：git push origin master
